@@ -3,7 +3,7 @@
 IBM-Project-16931-1659625158
 
 
-### Team Members : 👨‍💻
+### Team Members : 
    
   - Lokesh P 
   - Prithiv Raj S
