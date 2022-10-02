@@ -1,9 +1,9 @@
 ![Untitled (640 × 360px) (1280 × 250px) (1280 × 360px)](https://user-images.githubusercontent.com/62200224/191582048-20c88e71-665f-46fc-9423-4acf59982cb3.png)
-# Web Phishing Detection <picture> <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="32" height="32"></picture>
+# Web Phishing Detection <picture> <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="30" height="30"></picture>
 IBM-Project-16931-1659625158
 
 
-### Team Members :  <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.gif" alt="😃" width="32" height="32"></picture>
+### Team Members :  <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.gif" alt="😃" width="30" height="30"></picture>
    
   - Lokesh P 
   - Prithiv Raj S
@@ -20,7 +20,7 @@ IBM-Project-16931-1659625158
 - We will be able to build web applications using the Flask framework.
 
 
- ## Introduction : 🎊
+ ## Introduction : <picture> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f38a/512.gif" alt="🎊" width="30" height="30"></picture>
  There are a number of users who purchase products online and make payments through e-banking. There are e-banking websites that ask users to provide sensitive data such as username, password & credit card details, etc., often for malicious reasons. This type of e-banking website is known as a phishing website. Web service is one of the key communications software services for the Internet. Web phishing is one of many security threats to web services on the Internet. 
 
 Common threats of web phishing : 🪡 
