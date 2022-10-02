@@ -3,7 +3,7 @@
 IBM-Project-16931-1659625158
 
 
-### Team Members :  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.gif" alt="😃" width="32" height="32">
+### Team Members :  <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.gif" alt="😃" width="32" height="32"><picture>
    
   - Lokesh P 
   - Prithiv Raj S
