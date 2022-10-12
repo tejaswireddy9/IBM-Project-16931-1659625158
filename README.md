@@ -3,11 +3,7 @@
 IBM-Project-16931-1659625158
 <!-- Copy-paste in your Readme.md file -->
 
-<a href = "https://github.com/IBM-EPBL/IBM-Project-16931-1659625158/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = lokesh-inspire/IBM-EPBL
-/
-IBM-Project-16931-1659625158"/>
-</a>
+
 
 ### Team Members :  <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.gif" alt="😃" width="30" height="30"></picture>
    
