@@ -2,6 +2,11 @@
 # Web Phishing Detection <picture> <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="30" height="30"></picture>
 IBM-Project-16931-1659625158
 
+
+**Batch Name :** B4-4M6E
+
+**Team ID :** PNT2022TMID03926
+
 ### Team Members :  <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.gif" alt="😃" width="30" height="30"></picture>
    
   - Lokesh P 
